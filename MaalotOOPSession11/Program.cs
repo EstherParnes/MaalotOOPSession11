@@ -11,6 +11,7 @@ namespace MaalotOOPSession11
       static void Main(string[] args)
       {
          Console.WriteLine("lets learn git");
+         Console.WriteLine("hello from shaindy");
       }
    }
 }
