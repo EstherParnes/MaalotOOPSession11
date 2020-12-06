@@ -12,6 +12,7 @@ namespace MaalotOOPSession11
       {
          Console.WriteLine("lets learn git");
          Console.WriteLine("hello from shaindy");
+         Console.WriteLine("and a happy hanukah to all of you");
       }
    }
 }
